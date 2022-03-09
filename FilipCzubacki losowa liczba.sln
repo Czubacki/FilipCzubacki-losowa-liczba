@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilipCzubacki losowa liczba", "FilipCzubacki losowa liczba\FilipCzubacki losowa liczba.csproj", "{F7372F62-32F9-4C56-A6B8-5423A36F2659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7372F62-32F9-4C56-A6B8-5423A36F2659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7372F62-32F9-4C56-A6B8-5423A36F2659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7372F62-32F9-4C56-A6B8-5423A36F2659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7372F62-32F9-4C56-A6B8-5423A36F2659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8F2606-580A-496A-B08D-E6CA97369388}
+	EndGlobalSection
+EndGlobal
